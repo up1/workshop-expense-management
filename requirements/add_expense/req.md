@@ -6,7 +6,8 @@ This feature allows users to add a new expense to their expense tracker from ban
 
 ## Requirements
 - Users must be able to upload a bank slip file.
-- The system must extract expense details from the bank slip file.
+- The system must extract expense details from the bank slip file
+  * Use Anthropic API to extract expense details from the bank slip file
 - Users must be able to review and edit the extracted expense details before saving.
 - The system must validate the extracted expense details.
 - The system must save the expense to the database after user confirmation.
