@@ -2,10 +2,6 @@
 name: owasp-review
 description: Describe what this skill does and when to use it. Include keywords that help agents identify relevant tasks.
 ---
----
-applyTo: '**'
-description: 'Comprehensive secure coding standards based on OWASP Top 10 2025, with 55+ anti-patterns, detection regex, framework-specific fixes for modern web and backend frameworks, and AI/LLM security guidance.'
----
 
 # Security Standards
 
